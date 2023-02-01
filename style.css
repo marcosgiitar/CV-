@@ -1,0 +1,62 @@
+body{
+    background-color: lightblue;
+}
+div{
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+}
+nav{
+    font-family: 'Poppins', sans-serif;
+    padding: 10%;
+    width: 50%;
+    margin: auto;
+}
+header{
+   font-family: 'Inter', sans-serif;
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    width: 50%;
+    margin: auto; 
+}
+section{
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    width: 50%;
+    margin: auto; 
+    transform: translate(-1000);
+}
+i{
+    margin: center;
+    padding: center;
+    width: center;
+    margin: auto;
+}
+li{
+    list-style: none;
+}
+
+
+.menu-active{
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    width: 50%;
+
+}
+.active{
+    transform: translate(-1000);
+}
+
+.opasity{
+    background-color: white;
+    transition: all .5s ease;
+    
+}
